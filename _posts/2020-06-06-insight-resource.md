@@ -6,7 +6,7 @@ date: 2020-06-06 19:30:00 +09:00
 feature: '/img/posts/05/th-img.jpg'
 background: '/img/posts/05/header-img.jpg'
 categories:
-  - Insight
+  - INSIGHT
 tags:
   - 뉴스레터
   - 사회초년생

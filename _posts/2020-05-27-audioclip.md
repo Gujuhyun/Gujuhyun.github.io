@@ -6,7 +6,7 @@ date: 2020-05-26 17:30:00 +09:00
 feature: '/img/posts/02/th-img.jpg'
 background: '/img/posts/02/header.jpg'
 categories:
-  - App-Review
+  - APP-REVIEW
 tags:
   - 오디오
   - 라디오북

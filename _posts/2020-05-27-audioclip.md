@@ -1,19 +1,24 @@
 ---
 layout: post
-permalink: /heosaeng-jeon/
-title: '연암 박지원의 조선 현실 풍자 소설 허생전'
-date: 2019-12-10 14:30:00 +09:00
-feature: '/img/posts/01/feature_heosang-jeon.jpg'
-background: '/img/posts/01/bg_heosang-jeon.jpg'
+permalink: /audioclip/
+title: '[앱 추천] 오디오클립 – AudioClip'
+date: 2020-05-26 17:30:00 +09:00
+feature: '/img/posts/02/th-img.jpg'
+background: '/img/posts/02/header.jpg'
 categories:
-  - category-1
+  - App-Review
 tags:
-  - 허생
-  - 조선시대
-  - 허생전
-  - 고전소설
-description: '주인공인 허생은 가난한 형편에도 10년 글 읽기를 기약하며 매일 글을 읽고 있었는데 7년째 되는 어느 날 아내가 허생에게 장인바치 일도 장사도 못 하면 차라리 도둑질이라도 해서 돈을 벌어 오라고 구박한다.'
+  - 오디오
+  - 라디오북
+  - 동영상
+  - 독서
+  - 취미
+  - 유투브
+  - 책
+description: ' 더 자유로워지고 싶다면, 더 알고 싶다면 단지 귀만 열어두세요 ! '
 ---
+
+<br><br>
 잠깐! 스킵하지 마세요. 라는 말 많이 들어봤을 거예요
 
 아마 저 대사는 광고에서 많이 할 거예요.
@@ -22,9 +27,7 @@ description: '주인공인 허생은 가난한 형편에도 10년 글 읽기를 
 
 스스로 저렇게 생각할 수도 있어요.
 
-
-
-‘부자될 수 있는 방법 이 영상 지금 내가 봐야하는 건데…’
+<br><br> ‘부자될 수 있는 방법 이 영상 지금 내가 봐야하는 건데…’
 
 ‘아 이 책 꼭 읽어야 하는데…’
 
@@ -32,11 +35,9 @@ description: '주인공인 허생은 가난한 형편에도 10년 글 읽기를 
 
 하지만 **스킵 스킵 다음 영상 !**
 
+<br><br>
 
-
-
-
-봐야만 하는 정보들은 우리에게 많은 부담을 주죠. 😤
+봐야만 하는 정보들은 우리에게 많은 부담을 주죠. &#128548;
 
 IT산업이 발전하면서 소비해야 할 컨텐츠들은 많아졌어요.
 
@@ -48,7 +49,7 @@ IT산업이 발전하면서 소비해야 할 컨텐츠들은 많아졌어요.
 
 전달하기도 어렵고 비 전문인의 자극적인 내용이 포함되기도 해요.
 
-
+<br>
 
 그렇다면
 
@@ -56,37 +57,23 @@ IT산업이 발전하면서 소비해야 할 컨텐츠들은 많아졌어요.
 
 처음부터 유료 오디오 앱은 부담스럽죠. 무료로 다양한 컨텐츠를 시청해보세요.
 
-
-
+<br><br>
 **[오디오클립 - 다양한 채널, 팟캐스트와 오디오북 그리고 ASMR]**
-
-
-
-![img](https://blog.kakaocdn.net/dn/dr90Z6/btqGbOsXlTQ/PWhtIGCMGXjAspYMu96WRk/img.jpg)
-
-
+![오디오클립](/img/posts/02/img01.jpg)
+<br>
 
 **“아날로그 정서가 느껴지는 오디오 플랫폼”**
-
-
-
-![img](https://blog.kakaocdn.net/dn/ZFJxM/btqGfOdwTCS/F2Tj8EZyY2fZ41npTGh8j1/img.jpg)
-
-
+<br>
+![오디오클립](/img/posts/02/img02.jpg)
 
 앱을 실행하면 손그림으로 그려진
 
 꼬마니콜라의 그림이 나와 친숙한 느낌이 들어요.
-
-
+<br><br>
 
 **“화이트와 그린으로 이뤄진 직관적인UI”**
 
-
-
-![img](https://blog.kakaocdn.net/dn/2S9k9/btqF9GveTyr/6gcxxg9wepvpq79mQx4uV1/img.jpg)
-
-
+![오디오클립](/img/posts/02/img03.jpg)
 
 최근 들은 오디오가 상단에 배치되어 있고
 
@@ -94,11 +81,7 @@ IT산업이 발전하면서 소비해야 할 컨텐츠들은 많아졌어요.
 
 어학 동화 예능 종교 등 오디오 컨텐츠를 무료로 즐길 수 있어요.
 
-
-
-![img](https://blog.kakaocdn.net/dn/sgFqh/btqGbG2Bsv1/LvsUoG3PqukoFQpR8lTpDk/img.jpg)
-
-
+![오디오클립](/img/posts/02/img04.jpg)
 
 주간 베스트셀러를 읽어주는 오디오북 컨텐츠도 있어요.
 
@@ -108,23 +91,14 @@ IT산업이 발전하면서 소비해야 할 컨텐츠들은 많아졌어요.
 
 한번 재미삼아 시청해보세요 !
 
-
-
-![img](https://blog.kakaocdn.net/dn/245IB/btqGbOTYDk7/9zdd7wx1qM2ux0Esk6S720/img.jpg)
-
-
+![오디오클립](/img/posts/02/img05.jpg)
 
 좋았던 클립 리스트를 한 화면에서 바로 확인가능해요.
-
-
+<br><br><br>
 
 **“오디오클립만이 가진”**
 
-
-
-![img](https://blog.kakaocdn.net/dn/dMBTtE/btqGfMmtBWY/KGRBjf7x5ghIOix7DxRXA1/img.jpg)
-
-
+![오디오클립](/img/posts/02/img06.jpg)
 
 검색 메뉴의 마이크 기능을 이용해보세요.
 
@@ -132,6 +106,7 @@ IT산업이 발전하면서 소비해야 할 컨텐츠들은 많아졌어요.
 
 원하는 컨텐츠로 넘어갈 수도 있어요.
 
+
 [- 안드로이드 앱 바로가기](https://play.google.com/store/apps/details?id=com.naver.naveraudio&hl=ko)
 
-[- 애플ios 앱 바로가기](https://apps.apple.com/kr/app/오디오클립-audioclip/id1192635213)
+[- 애플ios 앱 바로가기](https://apps.apple.com/kr/app/%EC%98%A4%EB%94%94%EC%98%A4%ED%81%B4%EB%A6%BD-audioclip/id1192635213)
